@@ -10,6 +10,6 @@
 [<img src="https://hadrianlau.com/wp-content/uploads/2023/09/htmlicon.png" alt="html_img" width=57>](https://en.wikipedia.org/wiki/HTML)
 [<img src="https://hadrianlau.com/wp-content/uploads/2023/09/cssimg.png" alt="css_img" width=57>](https://en.wikipedia.org/wiki/CSS)
 ### Socials 🤝
-[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/github.png" alt="github_img" width=53>](https://github.com/LauNeedsA)       
-[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/free-code-forces-3629285-3031869.png" alt="codeforces_img" width=53>](https://codeforces.com/profile/Lau_Needs_A)    
-[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/favicon-1-2.png" alt="hkoi_img" width=53>](https://judge.hkoi.org/user/wy_hadrianlau)     
+[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/github.png" alt="github_img" width=53>](https://github.com/LauNeedsA)     
+[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/free-code-forces-3629285-3031869.png" alt="codeforces_img" width=53>](https://codeforces.com/profile/Lau_Needs_A)  
+[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/favicon-1-2.png" alt="hkoi_img" width=53>](https://judge.hkoi.org/user/wy_hadrianlau)   
