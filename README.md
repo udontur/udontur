@@ -7,5 +7,5 @@
 ### Languages 🌐
 [<img src="https://hadrianlau.com/wp-content/uploads/2023/09/c-logo-icon-0.png" alt="cpp_img" width=50>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://hadrianlau.com/wp-content/uploads/2023/09/pythonicon.png" alt="python_img" width=42>](https://en.wikipedia.org/wiki/Python_(programming_language))
-[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/htmlicon.png" alt="python_img" width=50>](https://en.wikipedia.org/wiki/HTML)
-[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/cssimg.png" alt="python_img" width=50>](https://en.wikipedia.org/wiki/CSS)
+[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/htmlicon.png" alt="python_img" width=60>](https://en.wikipedia.org/wiki/HTML)
+[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/cssimg.png" alt="python_img" width=60>](https://en.wikipedia.org/wiki/CSS)
