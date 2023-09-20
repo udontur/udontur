@@ -5,4 +5,4 @@
 - 🐢 I have a pet turtle named Udon
 - ⚙️ I am obssesed with computing related fields and physics
 ### Languages 🌐
-[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/c-logo-icon-0.png" alt="cpp_img" width=60>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img src="https://hadrianlau.com/wp-content/uploads/2023/09/c-logo-icon-0.png" alt="cpp_img" width=50>](https://en.wikipedia.org/wiki/C%2B%2B)
