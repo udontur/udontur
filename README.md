@@ -5,4 +5,4 @@
 - 🐢 I have a pet turtle named Udon
 - ⚙️ I am obssesed with computing related fields and physics
 ### Languages 🌐
-![<img src="https://imgur.com/a/htjtzei" alt="cpp_img" width=32>]
+<img src="https://imgur.com/a/htjtzei" alt="cpp_img" width=32>
