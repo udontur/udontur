@@ -1,6 +1,6 @@
 ### Hello World! 👋 I am Hadrian Lau 😃
 - 🧠 I do competitive programming
-- 🔨 I code and practice my programming solving skills everyday
+- 🔨 I code and practice my problem solving skills everyday
 - 🌱 I am currently learning math for competitive programming
 - 🐢 I have a pet turtle named Udon
 - ⚙️ I am obssesed with computing related fields and physics
