@@ -1,9 +1,9 @@
 ### Hello World! 👋 I am Hadrian Lau 😃
 - 🧠 I do competitive programming
-- 🔨 I code and practice my problem solving skills everyday
+- ⚙️ I am obssesed with ```computer software```, ```computer hardware```, ```math``` and ```physics```
 - 🌱 I am currently learning math for competitive programming
+- 🔨 I code and practice my problem solving skills everyday
 - 🐢 I have a pet turtle named Udon
-- ⚙️ I am obssesed with ```computer related fields```, $$math$$ and $$physics$$
 ### Languages 🌐
 [<img src="https://hadrianlau.com/wp-content/uploads/2023/09/c-logo-icon-0.png" alt="cpp_img" width=50>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://hadrianlau.com/wp-content/uploads/2023/09/pythonicon.png" alt="python_img" width=42>](https://en.wikipedia.org/wiki/Python_(programming_language))
