@@ -1,4 +1,4 @@
-### Hello World! 👋 I am Hadrian Lau 😃
+### Hello World! 👋 I am Hadrian 😃
 - 🧠 I do ```competitive programming```
 - ⚙️ I am obssesed with ```computer science```, ```math```, ```physics``` and ```electronics```
 - 🌱 I am currently learning ```math``` for ```competitive programming```
