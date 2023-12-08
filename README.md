@@ -5,10 +5,10 @@
 - 🔨 I code and grind online judges daily
 - 🐢 I have a pet turtle named Udon
 ### Languages 🌐
-![](github_language_1.png)
+[<img width="20px" src="language.png"/>](https://en.wikipedia.org/wiki/Programming_language)
 ### Socials 🤝
-[<img width="70px" src="github_socials.png" />](https://github.com/udontur)
-[HKOI Online Judge](https://judge.hkoi.org/user/wy_hadrianlau)
-[CodeForces](https://codeforces.com/profile/Lau_Needs_A)
-[LeetCode](https://leetcode.com/udontur/)
-[HackerRank](https://www.hackerrank.com/profile/udontur)
+[<img width="70px" src="github_socials.png"/>](https://github.com/udontur)
+[<img width="70px" src="hkoj_socials.png"/>](https://judge.hkoi.org/user/wy_hadrianlau)
+[<img width="70px" src="codeforces_socials.png"/>](https://codeforces.com/profile/Lau_Needs_A)
+[<img width="70px" src="leetcode_socials.png"/>](https://leetcode.com/udontur/)
+[<img width="70px" src="hackerrank_socials.png"/>](https://www.hackerrank.com/profile/udontur)
