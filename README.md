@@ -7,7 +7,7 @@
 ### Languages 🌐
 ![](github_language_1.png)
 ### Socials 🤝
-![https://github.com/LauNeedsA](github_socias.png)
+![https://github.com/LauNeedsA](github_socials.png)
 [HKOI Online Judge](https://judge.hkoi.org/user/wy_hadrianlau)
 [CodeForces](https://codeforces.com/profile/Lau_Needs_A)
 [LeetCode](https://leetcode.com/udontur/)
