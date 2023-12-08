@@ -5,7 +5,7 @@
 - 🔨 I code and grind online judges daily
 - 🐢 I have a pet turtle named Udon
 ### Languages 🌐
-[<img width="20px" src="language.png"/>](https://en.wikipedia.org/wiki/Programming_language)
+[<img width="200px" src="language.png"/>](https://en.wikipedia.org/wiki/Programming_language)
 ### Socials 🤝
 [<img width="70px" src="github_socials.png"/>](https://github.com/udontur)
 [<img width="70px" src="hkoj_socials.png"/>](https://judge.hkoi.org/user/wy_hadrianlau)
