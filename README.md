@@ -12,3 +12,4 @@
 [<img width="70px" src="codeforces_socials.png"/>](https://codeforces.com/profile/Lau_Needs_A)
 [<img width="70px" src="leetcode_socials.png"/>](https://leetcode.com/udontur/)
 [<img width="70px" src="hackerrank_socials.png"/>](https://www.hackerrank.com/profile/udontur)
+[<img width="70px" src="linkedin_socials.png"/>](https://www.linkedin.com/in/hadrian-lau-45aa49266/)
