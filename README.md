@@ -1,7 +1,7 @@
 ### Hello World! 👋 I am Hadrian 😃
-- 🧠 ```Competitive programming``` for life
-- ⚙️ Obsessed with ```computer science```, ```math```, ```astrophysics``` and ```electronics```
-- 🌱 Practicing ```competitive programming```
+- 🧠 ```Competitive Programming``` for life
+- ⚙️ Obsessed with ```Computer Science```, ```Math```, ```Astrophysics``` and ```Electronics```
+- 🌱 Practicing ```Competitive Programming```
 - 🔨 I grind online judges daily
 - 🐢 I have a pet turtle named Udon
 ### Languages 🌐
