@@ -1,4 +1,4 @@
-### Hello World! 👋 I am Hadrian 😃
+### Hello World! 👋 I am Hadrian 🐢
 - 🧠 ```Competitive Programming``` lover
 - ⚙️ Obsessed with ```Theoretical Computer Science``` and ```Mathematics```
 - 🌱 Practice ```Competitive Programming``` daily
