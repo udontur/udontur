@@ -1,7 +1,7 @@
 ### Hello World! 👋 I am Hadrian 🐢
-- 🧠 ```Competitive Programming``` lover
+- 🧠 ```Competitive Programming``` and ```Mathematics``` enthusiast
 - ⚙️ Obsessed with ```Theoretical Computer Science``` and ```Mathematics```
-- 🌱 Practice ```Competitive Programming``` daily
+- 🌱 Practice ```Competitive Programming``` and ```Mathematics``` daily
 - 🐢 Have a pet turtle named Udon
 ### Languages 🌐
 [<img width="50px" src="languages/cpp.png"/>](https://www.stroustrup.com/)
