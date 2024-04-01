@@ -5,7 +5,7 @@
 - 🐢 Have a pet turtle named Udon
 - 🖥️ My website: [hadrianlau.com](https://udontur.github.io)
 ### Languages 🌐
-[<img width="50px" src="languages/cpp.png"/>](https://www.stroustrup.com)
+[<img width="50px" src="languages/cpp.png"/>](https://www.stroustrup.com/C++.html)
 ### Socials 🤝
 [<img width="50px" src="socials/linkedin.png"/>](https://www.linkedin.com/in/hadrianlaucs)
 [<img width="50px" src="socials/hkoj.png"/>](https://judge.hkoi.org/user/wy_hadrianlau)
