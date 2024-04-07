@@ -4,6 +4,10 @@
 - ⚙️  ```Programming``` for 1.5 years
 - 🐢 Have a pet turtle named Udon
 - 🖥️ My website: [hadrianlau.com](https://udontur.github.io)
+### Repositories 📖
+[<img width="50px" src="repositories/cp.png"/>](https://github.com/udontur/cp)
+[<img width="50px" src="repositories/website.png"/>](https://github.com/udontur/udontur.github.io)
+[<img width="50px" src="repositories/readme.png"/>](https://github.com/udontur/udontur)
 ### Languages 🌐
 [<img width="50px" src="languages/cpp.png"/>]()
 [<img width="50px" src="languages/sql.png"/>]()
