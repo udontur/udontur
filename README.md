@@ -5,7 +5,12 @@
 - 🐢 Have a pet turtle named Udon
 - 🖥️ My website: [hadrianlau.com](https://udontur.github.io)
 ### Languages 🌐
-[<img width="50px" src="languages/cpp.png"/>](https://www.stroustrup.com/C++.html)
+[<img width="50px" src="languages/cpp.png"/>]()
+[<img width="50px" src="languages/sql.png"/>]()
+[<img width="50px" src="languages/html.png"/>]()
+[<img width="50px" src="languages/css.png"/>]()
+[<img width="50px" src="languages/js.png"/>]()
+[<img width="50px" src="languages/python.png"/>]()
 ### Socials 🤝
 [<img width="50px" src="socials/linkedin.png"/>](https://www.linkedin.com/in/hadrianlaucs)
 [<img width="50px" src="socials/hkoj.png"/>](https://judge.hkoi.org/user/wy_hadrianlau)
