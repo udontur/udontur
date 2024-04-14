@@ -3,7 +3,7 @@
 - 🌱 Practice ```Competitive Programming``` and ```Mathematics``` daily
 - ⚙️  ```Programming``` for 1.5 years
 - 🐢 My bro is a turtle call Udon
-- 🖥️ My website: [hadrianlau.com](https://udontur.github.io)
+- 🖥️ My website: [hadrianlau.com](https://hadrianlau.com)
 ### Repositories 📖
 [<img width="50px" src="repositories/cp.png"/>](https://github.com/udontur/cp)
 [<img width="50px" src="repositories/website.png"/>](https://github.com/udontur/udontur.github.io)
