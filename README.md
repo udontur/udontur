@@ -1,7 +1,6 @@
 ### Hello World! 👋 I am Hadrian 🐢
 - 🧠 ```Computer Science``` and ```Mathematics``` enthusiast
 - 🌱 Practice ```Competitive Programming``` and ```Mathematics``` daily
-- ⚙️  ```Programming``` for 1.5 years
 - 🐢 My bro is a turtle call Udon
 - 🖥️ My website: [hadrianlau.com](https://hadrianlau.com)
 ### Repositories 📖
