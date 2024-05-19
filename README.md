@@ -22,5 +22,3 @@
 [<img width="50px" src="socials/euler.png"/>](https://projecteuler.net/progress=udontur)
 [<img width="50px" src="socials/khan.png"/>](https://www.khanacademy.org/profile/udontur)
 [<img width="50px" src="socials/instagram.png"/>](https://www.instagram.com/udon.tur)
-
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=udontur&theme=2)
