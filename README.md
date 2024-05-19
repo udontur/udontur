@@ -16,5 +16,6 @@
 [<img width="50px" src="languages/html.png"/>]()
 [<img width="50px" src="languages/css.png"/>]()
 ### Socials 🤝
-[<img width="50px" src="socials/instagram.png"/>](https://www.instagram.com/udon.tur)
 [<img width="50px" src="socials/linkedin.png"/>](https://www.linkedin.com/in/hadrianlaucs)
+[<img width="50px" src="socials/github.png"/>](https://www.github.com/udontur)
+[<img width="50px" src="socials/instagram.png"/>](https://www.instagram.com/udon.tur)
