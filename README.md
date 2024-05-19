@@ -9,7 +9,6 @@
 [<img width="50px" src="repositories/readme.png"/>](https://github.com/udontur/udontur)
 ### Languages 🌐
 [<img width="50px" src="languages/cpp.png"/>]()
-[<img width="50px" src="languages/sql.png"/>]()
 [<img width="50px" src="languages/html.png"/>]()
 [<img width="50px" src="languages/css.png"/>]()
 ### Competitive Programming 📈
