@@ -1,7 +1,7 @@
 ### Hello World! 👋 I am Hadrian 🐢
 - 🧠 ```Computer Science``` and ```Mathematics``` enthusiast
 - 🐢 I have a pet turtle call Udon
-- 🖥️ My website: [hadrianlau.com](https://hadrianlau.com)
+- 🖥️ Website: [hadrianlau.com](https://hadrianlau.com)
 - 📨 Contact: [102845@dsc.edu.hk](mailto:102845@dsc.edu.hk) (reply within 36 hours)
 ### Repositories 📖
 [<img width="50px" src="repositories/cp.png"/>](https://github.com/udontur/cp)
