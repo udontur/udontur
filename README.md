@@ -1,5 +1,5 @@
 ### Hello! It's Hadrian 👋
-🧠 ```Computer Science``` and ```Mathematics``` enthusiast
+🧠 Computer Science and Mathematics enthusiast
 
 🖥️ Website [hadrianlau.com](https://hadrianlau.com)
 
