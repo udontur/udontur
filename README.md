@@ -5,4 +5,4 @@
 
 📨 Contact [102845@dsc.edu.hk](mailto:102845@dsc.edu.hk)
 
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=udontur&color=green)
