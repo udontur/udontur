@@ -1,4 +1,4 @@
-# 哈囉! I'm Hadrian 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=3000&color=F7F7F7&repeat=false&width=435&lines=I+love+Math+and+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&duration=3000&pause=1000&color=F7F7F7&repeat=false&width=435&lines=%E5%93%88%E5%9B%89+I'm+Hadrian!+%F0%9F%91%8B)](https://git.io/typing-svg)
+### 🧠 Obsessed with Math and Computer Science
 ### 🖥️ Website [hadrianlau.com](https://hadrianlau.com)
 ### 📨 Contact [102845@dsc.edu.hk](mailto:102845@dsc.edu.hk)
