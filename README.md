@@ -14,6 +14,7 @@
     </h2>
   </summary>
   </ul>
+  <div>All of my publicly available projects has no AI generated code. However, AI is used to assist frustrating debugging sessions, code reviews for industry standards, and occasional architecture or implementation suggestions for fishing me out of a dead end.</div>
 </div>
     
 
