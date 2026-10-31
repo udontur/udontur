@@ -7,7 +7,6 @@
   </ul>
 </div>
 
-> [!NOTE]
-> All of my public personal projects do not contain a single speck of AI vibe coded slop because I want to learn. I only use AI for repetitive tasks I already know how to do, review code against industry standards, or help me debug mega bugs that bugged me for hours.
+All of my public personal projects do not contain a single speck of AI vibe coded slop because I want to learn. I only use AI for repetitive tasks I already know how to do, review code against industry standards, or help me debug mega bugs that bugged me for hours.
 
-*I intentionally keep my activity, stars, follows, badges, and other details private for privacy reasons. You can still browse my public repository activity on the repos page.*
+> *I intentionally keep my activity, stars, follows, badges, and other details private for privacy reasons. You can still browse my public repository activity on the repos page.*
