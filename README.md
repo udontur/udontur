@@ -7,7 +7,7 @@
   </ul>
   <div>I intentionally keep my activity, stars, follows, badges, and other details private for privacy reasons. You can still browse my public repository activity on the repos page.</div>
   <br>
-  <div>All of my publicly available projects has no AI generated code. However, AI is used to assist frustrating debugging sessions, code reviews for industry standards, doing repetitive work, and occasional architecture or implementation suggestions for fishing me out of a dead end.</div>
+  <div>All of my public projects do not contain a single speck of AI vibe coded slop. I only use AI for repetitive tasks I already know how to do, review code against industry standards, or help me debug mega bugs that bugged me for hours.</div>
 </div>
     
 
